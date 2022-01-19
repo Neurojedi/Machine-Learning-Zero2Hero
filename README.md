@@ -15,4 +15,6 @@ Every person has a different way of learning something, the one generally works 
  3.Linear Models in Machine Learning on Python Regression 3: Regularzation, Hyperparameters tuning
  
  4.Linear Models in Machine Learning on Python Regression 4: Linear Regression Exercise with Covid Data, animated plots, custom transformers.
+ 
+ 5.Linear Models in Machine Learning on Python Logistic Regression 1: Coming soon.
 
