@@ -7,4 +7,12 @@ Every person has a different way of learning something, the one generally works 
  I will try to explain algorithms and code as much as possible, however, these topics may be hard for a beginner. In fact, I did not intend this notebook for beginners but for those who have some idea of how algorithms work and want to improve their understanding of both mathematics behind the algorithms and codes to implement the algorithm. In each section, I added external resources that I found helpful when I was learning machine learning. Moreover, I reviewed some steps a couple of time in each example, my aim for doing this is to get you more familiar with these steps. I think this notebook can help a lot to people who intuitively know the algorithms to some extent but want to dive deeper and get some experience. I hope some people can make use of this notebook and learn these machine learning models.
  
  Contents in Notebooks:
- 1.
+ 
+ 1.Linear Models in Machine Learning on Python Regression 1: The General Idea behind Linear Regression, Basic Feature Processing(Scaling, One-hot Encoding, Filling missing values, dealing with skewed predictors)
+ 
+ 2.Linear Models in Machine Learning on Python Regression 2: Dealing with skewed features, Effect of scaling on performance, data visualizations.
+ 
+ 3.Linear Models in Machine Learning on Python Regression 3: Regularzation, Hyperparameters tuning
+ 
+ 4.Linear Models in Machine Learning on Python Regression 4: Linear Regression Exercise with Covid Data, animated plots, custom transformers.
+
