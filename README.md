@@ -18,3 +18,4 @@ Every person has a different way of learning something, the one generally works 
  
  5.Linear Models in Machine Learning on Python Logistic Regression 1: Coming soon.
 
+Note: I will also add data that I used in these notebooks soon.
