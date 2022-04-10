@@ -10,7 +10,7 @@ Every person has a different way of learning something, the one generally works 
 
 #### Is it a good idea to combine mathematics and exercises in one notebook ?
 
- *I am never content until I have constructed a mechanical model of the subject I am studying. If I succeed in making one, I understand. Otherwise, I do not. - Lord Kelvin
+* *I am never content until I have constructed a mechanical model of the subject I am studying. If I succeed in making one, I understand. Otherwise, I do not. - Lord Kelvin
 
 Many people would probably seperate the mathematical aspect from the application which may be a good thing to do but I am one of those people who does not get satisfied until he/she constructs a mechanical model of the subject being studied. I like the idea of having the mathematical models in the same notebook so that one can return and revise easily. I hope this is also the way works for you as well.
 
