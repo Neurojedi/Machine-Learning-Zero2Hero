@@ -28,6 +28,6 @@ I will try to explain algorithms and code as much as possible, however, these to
  
  ## Contents in Notebooks:
  
- 14.Machine Learning on Python Naive Bayes Algorithm: Coming soon.
+ 15.Machine Learning on Python Naive Bayes Algorithm: Coming soon.
 
 Note: I will also add data that I used in these notebooks soon.
