@@ -28,14 +28,6 @@ I will try to explain algorithms and code as much as possible, however, these to
  
  ## Contents in Notebooks:
  
- 1.Linear Models in Machine Learning on Python Regression 1: The General Idea behind Linear Regression, Basic Feature Processing(Scaling, One-hot Encoding, Filling missing values, dealing with skewed predictors)
- 
- 2.Linear Models in Machine Learning on Python Regression 2: Dealing with skewed features, Effect of scaling on performance, data visualizations.
- 
- 3.Linear Models in Machine Learning on Python Regression 3: Regularzation, Hyperparameters tuning
- 
- 4.Linear Models in Machine Learning on Python Regression 4: Linear Regression Exercise with Covid Data, animated plots, custom transformers.
- 
- 5.Linear Models in Machine Learning on Python Logistic Regression 1: Coming soon.
+ 14.Machine Learning on Python Naive Bayes Algorithm: Coming soon.
 
 Note: I will also add data that I used in these notebooks soon.
