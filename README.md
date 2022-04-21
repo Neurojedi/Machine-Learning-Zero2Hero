@@ -26,7 +26,7 @@ I will try to explain algorithms and code as much as possible, however, these to
  
  I think this notebook can help a lot to people who intuitively know the algorithms to some extent but want to dive deeper and get some experience. I hope some people can make use of this notebook and learn these machine learning models.
  
- ## Contents in Notebooks:
+ ## Next Content:
  
  15.Machine Learning on Python Naive Bayes Algorithm: Coming soon.
 
