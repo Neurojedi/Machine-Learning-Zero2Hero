@@ -1,5 +1,5 @@
 # Logistic Regression Algorithm on Python
-Welcome to second part of my repository. In this part, I will introduce you the most basic classification algorithm, Logistic Regression.
+Welcome to second part of my repository. In this part, I will introduce you the basics of classification as well as the most basic model that we can use for classification. 
 
 ## Contents:
 
