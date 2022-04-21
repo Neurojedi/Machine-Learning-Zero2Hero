@@ -1,16 +1,16 @@
-# Linear Regression Algorithm on Python
-Welcome to first part of my repository. In this part, I will introduce you Linear Regression algorithm as well as basic preprocessing steps, cross validation, hyperparameter tuning and more. 
+# Logistic Regression Algorithm on Python
+Welcome to second part of my repository. In this part, I will introduce you the most basic classification algorithm, Logistic Regression.
 
 ## Contents:
 
-**1.Linear Models in Machine Learning on Python Regression 1:** In this notebook, I firstly talk about the general concept and mathematics behind linear regression. Afterwards, I show some basic preprocessing steps such as one-hot encoding, cleaning missing values, standardization, transforming target feature into normal distribution. I perform all of these steps on Ames Housing Dataset. Lastly, I train `LinearRegression()` algorithm on this processed dataset.
+**Linear Models in Machine Learning on Python - Logistic Regression 1:** In the first notebook, I firstly introduce the mathematical concepts behind Logistic Regression and show how the algorithm is used on Python. Afterwards, We revisit an important concept cross validation and explore some other important functions of cross validation. In addition, there are some other important metrics that are widely used for evaluation classification performance and in the second part of this notebook I introduce these metrics and some plots related to them..
 
 
-**2.Linear Models in Machine Learning on Python Regression 2:** In the second notebook, we dive deeper into understanding encoding, scaling and skewness. We see that different scaling and encoding algorithms can change performance of our model, in addition to that, we also deal with skewed features. Moreover, since it is also necessary to be familiar with basic visualization skills, in this notebook, I show some functions of seaborn that I frequently use.
+**Linear Models in Machine Learning on Python - Logistic Regression 2:** In the second notebook, I talk about how we can use regularization with Logistic Regression. If you are familiar with Linear Regression algorithm that I showed in the previous notebooks. There is not much new stuff in this notebook in terms of regularization. We just add the same terms to Logistic Regression cost function. Then I take our attention to cross validation one more time and introduce another function `StratifiedShuffleSplit()`. Lastly, I introduce another function called `LogisticRegressionCV()` that is used for tuning hyperparameters
 
-**3.Linear Models in Machine Learning on Python Regression 3:** In the third notebook, we visit the mathematics behind linear regression one more time to extent our understanding of this algorithm by adding some new ways to deal with overfitting. We see that how regularization techniques can affect the performance of our model as well as how we can use some function such as `GridSearchCV` or `RandomizedSearchCV` to find best hyperparameters for our model. It is also important to understand general idea behind cross validation to be able to use GridSearchCV properly, therefore, in this notebook we also briefly talk about cross validation.
+**Linear Models in Machine Learning on Python - Logistic Regression 3:** . In the third notebook, we see how we can extend the idea of logistic regression and perform the algorithm on multiclass classification problems by using some strategies. Moreover, we see how we can use the plots that we used earlier in multiclass classification.
 
-**4.Linear Models in Machine Learning on Python Regression 4:** In the last notebook, we practice everything we leant in the previous three notebooks by trying to predict death toll on covid dataset. To make it more informative, I also show how to use some animated plots, custom transformers and how to visualize the performance of our model during training with `GridSearchCV()`.
+**Linear Models in Machine Learning on Python - Logistic Regression 4:** In the last notebook, we practice what we learnt in the first three notebooks and also talk about some ways to deal with class imbalance.
 
 
-**Notes:** The animated plots in the last notebook increase the size of the notebook so much that github cannot render it online. I recommend downloading the notebook and plotting the animated plots. You can find the dataset in datasets folder.
+**Notes:** The `GridSearchCV()` results makes the notebooks hard to follow. Therefore, I deleted the outputs of GridSearchCV in the notebooks.
