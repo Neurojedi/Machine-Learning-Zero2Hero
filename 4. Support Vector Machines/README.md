@@ -11,7 +11,7 @@ Welcome to fourth part of my repository. In this part, we will talk about an alg
 
 **Linear Models in Machine Learning on Python - Support Vector Machines 3:** In the third notebook, we practice the algorithms we learnt in the previous SVM notebooks by performing one binary classification problem using Australian Rain dataset  and one multiclass classification problem using Wine Quality dataset.
 
-**Linear Models in Machine Learning on Python - Logistic Regression 4:** In the last notebook, we see how we can use SVM algorithm for regression.
+**Linear Models in Machine Learning on Python - Logistic Regression 4:** In the last notebook, we see how we can use SVM algorithm for regression. In addition, I also introduce some other regression algorithms that I didn't talk about previously such as Bayesian Regression and Least Angle Regression.
 
 
 **Notes:** The `GridSearchCV()` results makes the notebooks hard to follow. Therefore, I deleted the outputs of GridSearchCV in the notebooks.
