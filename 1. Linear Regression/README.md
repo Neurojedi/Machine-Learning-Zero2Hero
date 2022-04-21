@@ -3,7 +3,7 @@ Welcome to first part of my repository. In this part, I will introduce you Linea
 
 ## Contents:
 
-**1.Linear Models in Machine Learning on Python Regression 1:** In this notebook, I firstly talk about the general concept and mathematics behind linear regression. Afterwards, I show some basic preprocessing steps such as one-hot encoding, cleaning missing values, standardization, transforming target feature into normal distribution. I perform all of these steps on Ames Housing Dataset. Lastly, I train LinearRegression() algorithm on this processed dataset.
+**1.Linear Models in Machine Learning on Python Regression 1:** In this notebook, I firstly talk about the general concept and mathematics behind linear regression. Afterwards, I show some basic preprocessing steps such as one-hot encoding, cleaning missing values, standardization, transforming target feature into normal distribution. I perform all of these steps on Ames Housing Dataset. Lastly, I train `LinearRegression()` algorithm on this processed dataset.
 
 
 **2.Linear Models in Machine Learning on Python Regression 2:** Dealing with skewed features, Effect of scaling on performance, data visualizations.
