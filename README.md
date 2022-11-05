@@ -1,6 +1,14 @@
 # Machine-Learning-Zero2Hero
 
-Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find Jupyter notebooks which introduces machine learning algorithms by combining mathematical aspects behind the algorithms and practices. I am planning to publish around 40 educative notebooks in this repository.
+Welcome to my Machine Learning Hero-to-Zero 👋. In this repository, you will find Jupyter notebooks which introduces machine learning algorithms by combining mathematical aspects behind the algorithms and practices. I am planning to publish around 40 educative notebooks in this repository.
+
+ ## 🔥 Next Content:
+ 
+Machine Learning on Python Clustering: There will be 5 notebooks on clustering algorithms and they will be published in December, 2022.
+
+Note: I will also add data that I used in these notebooks soon.
+
+## ❓ Possible Questions
 
 #### Why am I doing that ? 
 
@@ -24,8 +32,4 @@ I will try to explain algorithms and code as much as possible, however, these to
  
  I think this notebook can help a lot to people who intuitively know the algorithms to some extent but want to dive deeper and get some experience. I hope some people can make use of this notebook and learn these machine learning models.
  
- ## 🔥 Next Content:
- 
- 15.Machine Learning on Python Naive Bayes Algorithm: Coming soon.
 
-Note: I will also add data that I used in these notebooks soon.
