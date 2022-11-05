@@ -2,7 +2,7 @@
 
 Hi,
 
-Welcome to my Machine Learning Repository. In this repository, you will find Jupyter notebooks which combines mathematical aspects and practices of Machine Learning Algorithms. I am planning to publish around 30 notebooks and these notebooks will be educative. 
+Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find Jupyter notebooks which combines mathematical aspects and practices of Machine Learning Algorithms. I am planning to publish around 30 notebooks and these notebooks will be educative. 
 
 #### Why am I doing that ? 
 
