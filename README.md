@@ -12,17 +12,17 @@ Note: I will also add data that I used in these notebooks soon.
 
 ## ❓ Possible Questions
 
-#### Why am I doing that ? 
+### 1️⃣ Why am I doing that ? 
 
 Every person has a different way of learning something, the one generally works for me is to teach what I am studying. Even while taking some notes I generally take them as I'm teaching something to someone. As a matter of fact, while learning machine learning and deep learning I also followed a similar way. Afterwards, I thought I could edit and develope my machine learning notebooks, so that other people could make use of it and perhaps expedite their learning process. This notebooks contain a lot of practices and mathematical aspects of algorithms as well as additional sources. 
 
-#### Is it a good idea to combine mathematics and exercises in one notebook ?
+### 2️⃣ Is it a good idea to combine mathematics and exercises in one notebook ?
 
 * I am never content until I have constructed a mechanical model of the subject I am studying. If I succeed in making one, I understand. Otherwise, I do not. - Lord Kelvin
 
 Many people would probably seperate the mathematical aspect from the application which may be a good thing to do but I am one of those people who does not get satisfied until he/she constructs a mechanical model of the subject being studied. I like the idea of having the mathematical models in the same notebook so that one can return and revise easily. I hope this is also the way works for you as well.
 
-#### How are notebooks organized ?
+### 3️⃣ How are notebooks organized ?
 
 For each algorithm that I will introduce, I will follow three main steps.
 
