@@ -1,6 +1,8 @@
 # Machine-Learning-Zero2Hero
 
-Welcome to my Machine Learning Hero-to-Zero 👋. In this repository, you will find Jupyter notebooks which introduces machine learning algorithms by combining mathematical aspects behind the algorithms and practices. I am planning to publish around 40 educative notebooks in this repository.
+## 👋 Introduction 
+
+Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find Jupyter notebooks which introduces machine learning algorithms by combining mathematical aspects behind the algorithms and practices. I am planning to publish around 40 educative notebooks in this repository.
 
  ## 🔥 Next Content:
  
