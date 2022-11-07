@@ -1,5 +1,5 @@
 
-# Naive Bayes Classifier on Python
+# Dimensionality Reduction Techniques on Python
 Welcome to the fifth part of my repository. In this part, we will talk about an algorithm called Naive Bayes Classifier which is an easy and straightforward application of the Bayes Theorem for classification.
 
 ## Contents:
