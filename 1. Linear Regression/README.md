@@ -1,7 +1,10 @@
 # Linear Regression Algorithm on Python
-Welcome to first part of my repository. In this part, I will introduce you Linear Regression algorithm as well as basic preprocessing steps, cross validation, hyperparameter tuning and more. 
 
-## Contents:
+## 👋 Introduction:
+
+Welcome to first part of my repository. In this part, I introduce you Linear Regression algorithm as well as basic preprocessing steps, cross validation, hyperparameter tuning and more. 
+
+## 🗊 Contents:
 
 **Linear Models in Machine Learning on Python: Linear Regression 1:** In this notebook, I firstly talk about the general concept and mathematics behind linear regression. Afterwards, I show some basic preprocessing steps such as one-hot encoding, cleaning missing values, standardization, transforming target feature into normal distribution. I perform all of these steps on Ames Housing Dataset. Lastly, I train `LinearRegression()` algorithm on this processed dataset.
 
@@ -13,4 +16,4 @@ Welcome to first part of my repository. In this part, I will introduce you Linea
 **Linear Models in Machine Learning on Python: Linear Regression 4:** In the last notebook, we practice everything we leant in the previous three notebooks by trying to predict death toll on covid dataset. To make it more informative, I also show how to use some animated plots, custom transformers and how to visualize the performance of our model during training with `GridSearchCV()`.
 
 
-**Notes:** The animated plots in the last notebook increase the size of the notebook so much that github cannot render it online. I recommend downloading the notebook and plotting the animated plots. You can find the dataset in datasets folder.
+**Notes:** The animated plots in the last notebook increase the size of the notebook so much that GitHub cannot render it online. I recommend downloading the notebook and plotting the animated plots. You can find the Covid dataset files in my Covid Data Analysis repository.
