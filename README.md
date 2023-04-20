@@ -6,9 +6,7 @@ Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find J
 
  ## 🔥 Next Content:
  
-Machine Learning on Python: Clustering
-
-Note: I will also add data that I used in these notebooks soon.
+Machine Learning on Python: Clustering (will be shared in next Summer)
 
 ## ❓ Possible Questions
 
