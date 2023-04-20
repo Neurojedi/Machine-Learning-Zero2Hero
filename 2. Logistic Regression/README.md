@@ -2,7 +2,7 @@
 
 ## 👋 Introduction:
 
-Welcome to second part of my repository. In this part, I will introduce you the basics of classification as well as the most basic model that we can use for classification. 
+Welcome to second part of my repository. In this part, I introduce you the basics of classification as well as the most basic model that we can use for classification. 
 
 ## 🗊 Contents:
 
