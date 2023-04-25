@@ -1,6 +1,6 @@
 # Machine-Learning-Zero2Hero
 
-<img src="tsne_mnist"></img>
+<img src="tsne_mnist.png"></img>
 
 ## 👋 Introduction 
 
