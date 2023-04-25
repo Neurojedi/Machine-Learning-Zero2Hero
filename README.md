@@ -1,5 +1,7 @@
 # Machine-Learning-Zero2Hero
 
+<img src="tsne_mnist"></img>
+
 ## 👋 Introduction 
 
 Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find Jupyter notebooks that introduce machine learning algorithms by combining mathematical aspects behind the algorithms and practices. I am planning to publish around 40 educative notebooks in this repository.
