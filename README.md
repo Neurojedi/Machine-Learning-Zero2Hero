@@ -10,6 +10,16 @@ Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find J
  
 Machine Learning on Python: Clustering (will be shared in next Summer)
 
+## 📼 Courses
+
+Additionally, I would like to share two of my favorite machine learning courses. The first one provides a comprehensive overview of the topics covered in this repository and more, with a focus on statistical learning theory. I particularly enjoyed the unique experience of listening to bird songs in the background while watching the great lectures from the University of Tubingen. The second course covers more topics such as neural networks and reinforcement learning, but it does not cover traditional machine learning approaches in as much detail as the first course.
+
+I suggest checking out the course web pages to determine which one would be more suitable for your needs. In addition to these courses, I highly recommend exploring Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) on Coursera for more in-depth learning.
+
+1. [Statistical Machine Learning by Ulrike von Luxbury at the University of Tubingen](https://www.youtube.com/watch?v=jFcYpBOeCOQ&list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
+
+2. [Stanford CS229: Machine Learning Course by Andrew NG at Stanford University](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 ## ❓ Possible Questions
 
 ### 1️⃣ Why am I doing that ? 
@@ -24,7 +34,7 @@ Many people would probably separate the mathematical aspect from the application
 
 ### 3️⃣ How are notebooks organized ?
 
-For each algorithm that I will introduce, I will follow three main steps.
+For each algorithm that I introduce, I will follow three main steps.
 
 1. I first explain the algorithms and mathematics under the hood. 
 2. Afterwards, I take you through how to use the algorithm on Python. 
