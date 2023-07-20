@@ -8,11 +8,11 @@ Welcome to my Machine Learning Hero-to-Zero. In this repository, you will find J
 
  ## 🔥 Next Content:
  
-Machine Learning on Python: Clustering (will be shared in next Summer)
+Machine Learning on Python: Clustering 
 
 ## 📼 Courses
 
-Additionally, I would like to share two of my favorite machine learning courses. The first one provides a comprehensive overview of the topics covered in this repository and more, with a focus on statistical learning theory. I particularly enjoyed the unique experience of listening to bird songs in the background while watching the great lectures from the University of Tubingen. The second course covers more topics such as neural networks and reinforcement learning, but it does not cover traditional machine learning approaches in as much detail as the first course.
+Additionally, I would like to share two of my favorite machine-learning courses. The first one provides a comprehensive overview of the topics covered in this repository and more, with a focus on statistical learning theory. I particularly enjoyed the unique experience of listening to bird songs in the background while watching the great lectures from the University of Tubingen. The second course covers more topics such as neural networks and reinforcement learning, but it does not cover traditional machine learning approaches in as much detail as the first course.
 
 I suggest checking out the course web pages to determine which one would be more suitable for your needs. In addition to these courses, I highly recommend exploring Andrew Ng's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) and the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) on Coursera for more in-depth learning.
 
@@ -22,7 +22,7 @@ I suggest checking out the course web pages to determine which one would be more
 
 ## ❓ Possible Questions
 
-### 1️⃣ Why am I doing that ? 
+### 1️⃣ Why am I doing that? 
 
 Every person has a different way of learning something, the one generally works for me is to teach what I am studying. Even while taking some notes I generally take them as if I'm teaching something to someone. As a matter of fact, while learning machine learning and deep learning I also followed a similar way. Afterwards, I thought I could edit and develop my machine-learning notebooks so that other people could make use of it and perhaps expedite their learning process. These notebooks contain a lot of practices and mathematical aspects of algorithms as well as additional sources. 
 
@@ -32,7 +32,7 @@ Every person has a different way of learning something, the one generally works 
 
 Many people would probably separate the mathematical aspect from the application which may be a good thing to do but I am one of those people who does not get satisfied until he/she constructs a mechanical model of the subject being studied. I like the idea of having the mathematical models in the same notebook so that one can return and revise easily. I hope this is also the way that works for you as well.
 
-### 3️⃣ How are notebooks organized ?
+### 3️⃣ How are notebooks organized?
 
 For each algorithm that I introduce, I will follow three main steps.
 
