@@ -51,6 +51,6 @@ For each algorithm that I introduce, I follow three main steps.
 
 I will try to explain algorithms and code as much as possible, however, these topics may be hard for a beginner. In fact, these notebooks may not be suitable for beginners but for those who have some idea of how algorithms work and want to improve their understanding of both mathematics behind the algorithms and the codes to implement the algorithm. In each section, I added external resources that I found helpful when I was learning machine learning. Furthermore, I did not only introduce the algorithms but also introduced important preprocessing concepts.  I think notebooks should not only introduce algorithms to someone but also they should provide necessary information about cross-validation, preprocessing, and visualization because these steps are really important in machine learning. Moreover, these notebooks are sequential. Every notebook is designed to take one of the ideas further in the previous notebooks. 
  
- I think this notebook can help a lot to people who intuitively know the algorithms to some extent but want to dive deeper and get some more experience. I hope some people can make use of these notebooks and expedite their machine-learning journey.
+ I think these notebooks can help a lot to those who intuitively know the algorithms to some extent but want to dive deeper and get some more experience. I hope some people can make use of these notebooks and expedite their machine-learning journey.
  
 
